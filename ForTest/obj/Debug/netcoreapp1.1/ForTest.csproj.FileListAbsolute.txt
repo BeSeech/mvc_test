@@ -1,0 +1,7 @@
+c:\users\beseech\source\repos\ForTest\ForTest\bin\Debug\netcoreapp1.1\ForTest.deps.json
+c:\users\beseech\source\repos\ForTest\ForTest\bin\Debug\netcoreapp1.1\ForTest.runtimeconfig.json
+c:\users\beseech\source\repos\ForTest\ForTest\bin\Debug\netcoreapp1.1\ForTest.runtimeconfig.dev.json
+c:\users\beseech\source\repos\ForTest\ForTest\bin\Debug\netcoreapp1.1\ForTest.dll
+c:\users\beseech\source\repos\ForTest\ForTest\obj\Debug\netcoreapp1.1\ForTest.csprojResolveAssemblyReference.cache
+c:\users\beseech\source\repos\ForTest\ForTest\obj\Debug\netcoreapp1.1\ForTest.csproj.CoreCompileInputs.cache
+c:\users\beseech\source\repos\ForTest\ForTest\obj\Debug\netcoreapp1.1\ForTest.AssemblyInfo.cs
