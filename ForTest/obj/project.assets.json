@@ -9670,9 +9670,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\BeSeech\\source\\repos\\mvc_test\\ForTest\\ForTest.csproj",
-      "projectName": "ForTest",
-      "projectPath": "C:\\Users\\BeSeech\\source\\repos\\mvc_test\\ForTest\\ForTest.csproj",
+      "projectUniqueName": "C:\\Users\\BeSeech\\source\\repos\\mvc_test\\ForTest\\mvc_test.csproj",
+      "projectName": "mvc_test",
+      "projectPath": "C:\\Users\\BeSeech\\source\\repos\\mvc_test\\ForTest\\mvc_test.csproj",
       "packagesPath": "C:\\Users\\BeSeech\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\BeSeech\\source\\repos\\mvc_test\\ForTest\\obj\\",
       "projectStyle": "PackageReference",
