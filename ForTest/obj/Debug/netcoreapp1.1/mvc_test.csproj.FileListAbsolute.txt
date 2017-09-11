@@ -1,0 +1,10 @@
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\bin\Debug\netcoreapp1.1\mvc_test.deps.json
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\bin\Debug\netcoreapp1.1\mvc_test.runtimeconfig.json
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\bin\Debug\netcoreapp1.1\mvc_test.runtimeconfig.dev.json
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\bin\Debug\netcoreapp1.1\mvc_test.dll
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\bin\Debug\netcoreapp1.1\mvc_test.pdb
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\obj\Debug\netcoreapp1.1\mvc_test.csprojResolveAssemblyReference.cache
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\obj\Debug\netcoreapp1.1\mvc_test.csproj.CoreCompileInputs.cache
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\obj\Debug\netcoreapp1.1\mvc_test.AssemblyInfo.cs
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\obj\Debug\netcoreapp1.1\mvc_test.dll
+C:\Users\BeSeech\source\repos\mvc_test\ForTest\obj\Debug\netcoreapp1.1\mvc_test.pdb
