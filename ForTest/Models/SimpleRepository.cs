@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 
-namespace ForTest.Models
+namespace mvc_test.Models
 {
-    public class SimpleRepository
+    public class SimpleRepository : IRepository
     {
         private static SimpleRepository sharedRepository = new SimpleRepository();
         private Dictionary<string, Product> products = new Dictionary<string, Product>();

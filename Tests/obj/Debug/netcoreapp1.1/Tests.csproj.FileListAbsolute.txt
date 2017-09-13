@@ -1,0 +1,15 @@
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\Tests.deps.json
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.json
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.dev.json
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\Tests.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\Tests.pdb
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\mvc_test.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\bin\Debug\netcoreapp1.1\mvc_test.pdb
+C:\Users\BeSeech\source\repos\mvc_test\Tests\obj\Debug\netcoreapp1.1\Tests.csprojResolveAssemblyReference.cache
+C:\Users\BeSeech\source\repos\mvc_test\Tests\obj\Debug\netcoreapp1.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\BeSeech\source\repos\mvc_test\Tests\obj\Debug\netcoreapp1.1\Tests.AssemblyInfo.cs
+C:\Users\BeSeech\source\repos\mvc_test\Tests\obj\Debug\netcoreapp1.1\Tests.dll
+C:\Users\BeSeech\source\repos\mvc_test\Tests\obj\Debug\netcoreapp1.1\Tests.pdb

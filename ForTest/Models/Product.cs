@@ -1,4 +1,4 @@
-﻿namespace ForTest.Models
+﻿namespace mvc_test.Models
 {
     public class Product
     {

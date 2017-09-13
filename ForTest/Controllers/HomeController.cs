@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using ForTest.Models;
+using mvc_test.Models;
 
-namespace ForTest.Controllers
+namespace mvc_test.Controllers
 {
     public class HomeController : Controller
     {
-        SimpleRepository Repository = SimpleRepository.SharedRepository;
+        public IRepository Repository = SimpleRepository.SharedRepository;
 
         // GET
         public IActionResult Index()
